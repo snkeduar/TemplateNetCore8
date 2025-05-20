@@ -1,6 +1,4 @@
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Template.Auth;
 
 namespace Template.Controllers
 {
@@ -20,7 +18,6 @@ namespace Template.Controllers
             _logger = logger;
         }
 
-        [Authorize(AuthenticationSchemes = CustomAuthSchemasNames.EXTERNO)]
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {

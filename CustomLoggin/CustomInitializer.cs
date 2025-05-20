@@ -14,7 +14,7 @@ namespace CustomLoggin
         {
             if (string.IsNullOrEmpty(telemetry.Context.Cloud.RoleName))
             {
-                telemetry.Context.Cloud.RoleName = "HC-Services";
+                telemetry.Context.Cloud.RoleName = "Project Name";
             }
         }
     }

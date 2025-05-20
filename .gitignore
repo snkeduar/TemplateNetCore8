@@ -68,3 +68,6 @@ secrets.json
 # Archivos específicos de Resharper (si lo usas)
 _ReSharper*/
 *.DotSettings.user
+
+# Visual Code
+.vs/
