@@ -1,0 +1,70 @@
+## Compilación
+bin/
+obj/
+
+## Archivos de usuario de Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Archivos de Visual Studio Code
+.vscode/
+.history/
+
+## Archivos de configuración
+appsettings.Development.json
+appsettings.*.json
+
+## Publicaciones
+**/publish/
+**/out/
+
+## Paquetes
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+## Logs y datos temporales
+*.log
+*.tlog
+*.cache
+*.tmp
+
+## Archivos del sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+## Archivos de Mac y Linux
+.DS_Store
+.AppleDouble
+.LSOverride
+.idea/
+*.swp
+
+## Archivos de Rider/JetBrains
+.idea/
+*.sln.iml
+
+## Archivos generados por dotnet watch/hot reload
+**/Generated/
+
+## Archivos de test y cobertura
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+## Entornos virtuales o archivos adicionales
+.env
+.env.*
+
+## Secretos de usuario
+secrets.json
+
+# Archivos específicos de Resharper (si lo usas)
+_ReSharper*/
+*.DotSettings.user
