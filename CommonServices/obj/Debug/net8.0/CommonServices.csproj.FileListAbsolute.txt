@@ -1,0 +1,12 @@
+C:\Users\jemendez\source\repos\Template\CommonServices\obj\Debug\net8.0\CommonServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jemendez\source\repos\Template\CommonServices\obj\Debug\net8.0\CommonServices.AssemblyInfoInputs.cache
+C:\Users\jemendez\source\repos\Template\CommonServices\obj\Debug\net8.0\CommonServices.AssemblyInfo.cs
+C:\Users\jemendez\source\repos\Template\CommonServices\obj\Debug\net8.0\CommonServices.csproj.CoreCompileInputs.cache
+C:\Users\jemendez\source\repos\Template\CommonServices\bin\Debug\net8.0\CommonServices.deps.json
+C:\Users\jemendez\source\repos\Template\CommonServices\bin\Debug\net8.0\CommonServices.dll
+C:\Users\jemendez\source\repos\Template\CommonServices\bin\Debug\net8.0\CommonServices.pdb
+C:\Users\jemendez\source\repos\Template\CommonServices\obj\Debug\net8.0\CommonServices.csproj.AssemblyReference.cache
+C:\Users\jemendez\source\repos\Template\CommonServices\obj\Debug\net8.0\CommonServices.dll
+C:\Users\jemendez\source\repos\Template\CommonServices\obj\Debug\net8.0\refint\CommonServices.dll
+C:\Users\jemendez\source\repos\Template\CommonServices\obj\Debug\net8.0\CommonServices.pdb
+C:\Users\jemendez\source\repos\Template\CommonServices\obj\Debug\net8.0\ref\CommonServices.dll
